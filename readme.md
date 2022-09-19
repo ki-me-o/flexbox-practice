@@ -1,1 +1,1 @@
-A simple demonstration of Flexbox and its uses
+A simple demonstration of Flexbox and its uses via www.internetingishard.com/html-and-css/flexbox/
